@@ -1,0 +1,122 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "huy",
+      "price": "12",
+      "category": {
+        "id": 1,
+        "name": "C11"
+      }
+    },
+    {
+      "id": "2",
+      "name": "huy",
+      "price": "12",
+      "category": {
+        "id": 2,
+        "name": "C12"
+      }
+    },
+    {
+      "id": "3",
+      "name": "huy",
+      "price": "12",
+      "category": {
+        "id": 1,
+        "name": "C11"
+      }
+    },
+    {
+      "id": "b9aa",
+      "code": "dfs",
+      "name": "fsdfd",
+      "genres": {
+        "id": 1,
+        "name": "Văn học hiện thực",
+        "description": "Tác phẩm phản ánh chân thực xã hội Việt Nam thời kỳ thuộc địa."
+      },
+      "dateAdded": "2023-05-06",
+      "quantity": "12"
+    }
+  ],
+  "category": [
+    {
+      "id": "1",
+      "name": "C11"
+    },
+    {
+      "id": "2",
+      "name": "C12"
+    }
+  ],
+  "books": [
+    {
+      "id": 1,
+      "code": "BO-1111",
+      "name": "Chí Phèo",
+      "genres": {
+        "id": 1,
+        "name": "Văn học hiện thực",
+        "description": "Tác phẩm phản ánh chân thực xã hội Việt Nam thời kỳ thuộc địa."
+      },
+      "dateAdded": "2023-01-15",
+      "quantity": 12
+    },
+    {
+      "id": 2,
+      "code": "BO-1112",
+      "name": "Tắt đèn",
+      "genres": {
+        "id": 2,
+        "name": "Văn học phê phán",
+        "description": "Tác phẩm phê phán những thói hư, tật xấu trong xã hội."
+      },
+      "dateAdded": "2023-02-20",
+      "quantity": 8
+    },
+    {
+      "id": 3,
+      "code": "BO-1113",
+      "name": "Số đỏ",
+      "genres": {
+        "id": 3,
+        "name": "Văn học trào phúng",
+        "description": "Tác phẩm mang tính chất trào phúng, châm biếm xã hội."
+      },
+      "dateAdded": "2023-03-25",
+      "quantity": 5
+    },
+
+
+    {
+      "id": "61c8",
+      "code": "BO-1456",
+      "name": "song",
+      "genres": {
+        "id": 3,
+        "name": "Văn học trào phúng",
+        "description": "Tác phẩm mang tính chất trào phúng, châm biếm xã hội."
+      },
+      "dateAdded": "2024-06-27",
+      "quantity": 2
+    }
+  ],
+  "genres": [
+    {
+      "id": 1,
+      "name": "Văn học hiện thực",
+      "description": "Tác phẩm phản ánh chân thực xã hội Việt Nam thời kỳ thuộc địa."
+    },
+    {
+      "id": 2,
+      "name": "Văn học phê phán",
+      "description": "Tác phẩm phê phán những thói hư, tật xấu trong xã hội."
+    },
+    {
+      "id": 3,
+      "name": "Văn học trào phúng",
+      "description": "Tác phẩm mang tính chất trào phúng, châm biếm xã hội."
+    }
+  ]
+}
